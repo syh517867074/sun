@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "unordered_set": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "unordered_map": "cpp",
+        "stdexcept": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp"
+    }
+}
